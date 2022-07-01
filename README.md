@@ -1,3 +1,1 @@
-# Leet-Code-Record
-
-#### LeetCode Record
+# LeetCode Record
