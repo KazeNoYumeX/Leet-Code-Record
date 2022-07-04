@@ -49,7 +49,7 @@ Runtime: 87 ms, faster than 84.88% of JavaScript online submissions for Maximum 
 
 Memory Usage: 44.3 MB, less than 83.53% of JavaScript online submissions for Maximum Units on a Truck.
 
-```
+```javascript
 const maximumUnits = (boxTypes, truckSize) => {
   boxTypes = boxTypes.sort((a, b) => a[1] > b[1] ? -1 : 0)
   let count = 0
