@@ -78,3 +78,35 @@ const maximumUnits = (boxTypes, truckSize) => {
   return boxTypes.reduce(reducer)
 }
 ```
+
+### PHP <a href="#javascript" id="javascript"></a>
+
+**Result**&#x20;
+
+Runtime: 70 ms, faster than 91.23% of PHP online submissions for Maximum Units on a Truck.
+
+Memory Usage: 20.4 MB, less than 77.19% of PHP online submissions for Maximum Units on a Truck.
+
+```php
+class Solution {
+    /**
+     * @param Integer[][] $boxTypes
+     * @param Integer $truckSize
+     * @return Integer
+     */
+    function maximumUnits($boxTypes, $truckSize) {
+        $count = 0;
+        
+        usort($boxTypes, function($a, $b) {
+            return $a[1] < $b[1];
+        });
+        
+        foreach($boxTypes as $box) {
+            $amount = $box[0] <= $truckSize ? $box[0] : $truckSize;
+            $count += $amount * $box[1];
+            $truckSize -= $amount;
+        }
+        return $count;
+    }
+}
+```
