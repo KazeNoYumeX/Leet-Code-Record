@@ -17,6 +17,7 @@
 * [175. Combine Two Tables](problems/175.-combine-two-tables.md)
 * [181. Employees Earning More Than Their Managers](problems/181.-employees-earning-more-than-their-managers.md)
 * [509. Fibonacci Number](problems/509.-fibonacci-number.md)
+* [595. Big Countries](problems/595.-big-countries.md)
 * [617. Merge Two Binary Trees](problems/617.-merge-two-binary-trees.md)
 * [1710. Maximum Units on a Truck](problems/1710.-maximum-units-on-a-truck.md)
 * [1929. Concatenation of Array](problems/1929.-concatenation-of-array.md)
