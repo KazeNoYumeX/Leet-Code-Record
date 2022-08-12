@@ -23,4 +23,5 @@
 * [617. Merge Two Binary Trees](problems/617.-merge-two-binary-trees.md)
 * [1710. Maximum Units on a Truck](problems/1710.-maximum-units-on-a-truck.md)
 * [1757. Recyclable and Low Fat Products](problems/1757.-recyclable-and-low-fat-products.md)
+* [1873. Calculate Special Bonus](problems/1873.-calculate-special-bonus.md)
 * [1929. Concatenation of Array](problems/1929.-concatenation-of-array.md)
