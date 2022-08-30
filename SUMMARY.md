@@ -33,6 +33,7 @@
 * [1527. Patients With a Condition](problems/1527.-patients-with-a-condition.md)
 * [1581. Customer Who Visited but Did Not Make Any Transactions](problems/1581.-customer-who-visited-but-did-not-make-any-transactions.md)
 * [1667. Fix Names in a Table](problems/1667.-fix-names-in-a-table.md)
+* [1693. Daily Leads and Partners](problems/1693.-daily-leads-and-partners.md)
 * [1710. Maximum Units on a Truck](problems/1710.-maximum-units-on-a-truck.md)
 * [1757. Recyclable and Low Fat Products](problems/1757.-recyclable-and-low-fat-products.md)
 * [1795. Rearrange Products Table](problems/1795.-rearrange-products-table.md)
