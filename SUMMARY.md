@@ -14,6 +14,7 @@
 * [20. Valid Parentheses](problems/20.-valid-parentheses.md)
 * [21. Merge Two Sorted Lists](problems/21.-merge-two-sorted-lists.md)
 * [26. Remove Duplicates from Sorted Array](problems/26.-remove-duplicates-from-sorted-array.md)
+* [27. Remove Element](problems/27.-remove-element.md)
 * [46. Permutations](problems/46.-permutations.md)
 * [88. Merge Sorted Array](problems/88.-merge-sorted-array.md)
 * [102. Binary Tree Level Order Traversal](problems/102.-binary-tree-level-order-traversal.md)
