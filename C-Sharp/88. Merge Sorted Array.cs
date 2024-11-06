@@ -4,7 +4,7 @@ namespace LeetCode.C_Sharp;
 
 [SuppressMessage("ReSharper", "UnusedType.Global")]
 [SuppressMessage("ReSharper", "UnusedMember.Global")]
-public class Solution
+public partial class Solution
 {
     public void Merge(int[] nums1, int m, int[] nums2, int n)
     {
